@@ -30,13 +30,18 @@ export default makeStyles({
     display: 'flex',
     justifyContent: 'space-between',
     margin: '20px',
+    fontSize:"12px"
   },
   title: {
     padding: '0 16px',
+    fontSize:"16px"
   },
   cardActions: {
     padding: '0 16px 8px 16px',
     display: 'flex',
     justifyContent: 'space-between',
   },
+  description :{
+    fontSize:"13px"
+  }
 });
